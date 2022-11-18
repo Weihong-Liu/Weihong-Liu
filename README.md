@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyang0210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Puppet's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyang0210&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyang0210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Puppet's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puppet&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
